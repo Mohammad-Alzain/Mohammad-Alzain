@@ -8,7 +8,7 @@ Building enterprise-scale web applications with modern technologies. 5+ years of
 
 ## 📊 Quick Stats
 
-- **Experience:** 5+ years (Oct 2021 - Present)
+- **Experience:** 5+ years (2021 - Present)
 - **Projects:** 20+ completed platforms
 - **Technologies:** 30+ languages & frameworks
 - **Leadership:** 1 Team Leader role + mentoring
