@@ -2,14 +2,14 @@
 
 **Software Engineer | Full-Stack Developer | React.js & Next.js Specialist**
 
-Building enterprise-scale web applications with modern technologies. 4.5+ years of professional experience delivering 12+ production platforms across ERP systems, fintech, real estate, e-commerce, and SaaS.
+Building enterprise-scale web applications with modern technologies. 5+ years of professional experience delivering 20+ production platforms across ERP systems, fintech, real estate, e-commerce, and SaaS.
 
 ---
 
 ## 📊 Quick Stats
 
-- **Experience:** 4.5+ years (Oct 2021 - Present)
-- **Projects:** 12+ completed platforms
+- **Experience:** 5+ years (Oct 2021 - Present)
+- **Projects:** 20+ completed platforms
 - **Technologies:** 30+ languages & frameworks
 - **Leadership:** 1 Team Leader role + mentoring
 
